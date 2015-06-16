@@ -3,7 +3,6 @@
 #then this program caches the result, and retrieves it from the memory, rather 
 #than re-computing the result
 
-
 #The makeCacheMatrix function takes in the original matrix, 
 #finds inverse and saves it to memory
 #It contains get, set, getinverse and setinverse functions
